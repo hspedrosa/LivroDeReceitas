@@ -1,0 +1,17 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   src/com/livrodereceitas/entity/Ingredientes.java
+#	new file:   src/com/livrodereceitas/entity/Receita.java
+#
+# Untracked files:
+#	.classpath
+#	.project
+#	.settings/
+#	WebContent/
+#
+
